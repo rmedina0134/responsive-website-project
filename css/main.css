@@ -370,18 +370,6 @@
     flex-flow: row wrap;
   }
   
-  .contact-section {
-    background-color: #2a423a;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-flow: row wrap;
-  }
-  
-  .contact-content p {
-    margin: 0;
-  }
-
   .map figure {
     width: 100%;
     height: 0;
@@ -396,6 +384,18 @@
     position: absolute;
     top: 0;
     left: 0;
+  }
+
+  .contact-section {
+    background-color: #2a423a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+  }
+  
+  .contact-content p {
+    margin: 0;
   }
   
   /* ==========================================================================
@@ -672,6 +672,10 @@
     .mission-content p {
       width: 45%;
     }
+
+    .map figure {
+      padding-bottom: 45.5%;
+    }
   
     .contact-section .content-wrapper h2 {
       width: 80%;
@@ -782,6 +786,10 @@
     About Page
     ========================================================================== */
   
+    .map figure {
+      padding-bottom: 37.5%;
+    }
+    
     .mission h2,
     .contact-section .content-wrapper h2 {
         width: 95%;
