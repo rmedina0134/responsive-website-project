@@ -442,10 +442,6 @@
     margin-bottom: 50px;
   }
   
-  .faq-content {
-    margin-bottom: 50px;
-  }
-  
   .faq-content h4 {
     line-height: 1.333;
   }
@@ -588,8 +584,8 @@
   
     .hero-area {
       min-height: 600px;
-    }  
-  
+    }
+    
     .hero-area h1 {
       font-size: 3em;
       line-height: 1;
@@ -798,7 +794,7 @@
     }
     
     /* Reviews */
-  
+    
     .reviews h2 {
       padding-bottom: 50px; 
     }
@@ -810,6 +806,7 @@
     footer h4 {
       font-size: 1.875em;
     }
+  
     /* ==========================================================================
     About Page
     ========================================================================== */
